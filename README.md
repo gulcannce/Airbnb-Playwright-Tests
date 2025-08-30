@@ -15,7 +15,6 @@ Playwright: This is the main automation tool for the project. It's a modern auto
 JavaScript / TypeScript: The test code is written in JavaScript. 📜
 
 Node.js: It provides the necessary environment for the project to run. 🖥️
-
 Test Senaryoları 📝
 The following tests were written to validate the project's main functionalities:
 
