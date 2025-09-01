@@ -2,7 +2,7 @@ This project was developed to test the core functionalities of the Airbnb websit
 
 Project Goal 🎯
 The main objective of this project is to validate critical user flows on Airbnb with automated tests. The following scenarios have been tested within the scope of this project:
-
+ 
 Homepage Access: The test verifies whether the homepage opens successfully. ✅
 
 Basic Search Functionality: It checks if the search function for a specific location (Istanbul) works correctly. 🔍
