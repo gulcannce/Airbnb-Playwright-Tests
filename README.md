@@ -5,7 +5,7 @@ The main objective of this project is to validate critical user flows on Airbnb 
  
 Homepage Access: The test verifies whether the homepage opens successfully. ✅
 
-Basic Search Functionality: It checks if the search function for a specific location (Istanbul) works correctly. 🔍
+Basic Search Functionality: It checks if the search function for a specific location (Istanbul) works correctly. 🔍 
 
 Detailed Search Scenario: A detailed search scenario with a specific location (Istanbul) 🗺️, check-in/check-out dates (September 15-16) 📅, and number of guests (1 person) 🧑‍🤝‍🧑 has been tested.
 
