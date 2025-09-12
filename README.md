@@ -25,7 +25,7 @@ Search for Istanbul on Airbnb website: Tests the search functionality by typing 
 Airbnb Istanbul, September 15-16, 1 person search test: A detailed search test with specific dates and guest count, followed by verification of the results page. 
 
 How to Run the Project
-1.Clone this project to your local machine.
+1.Clone this project to your local machine. 
 
 2.Navigate to the project directory and run the following command in the terminal to install the necessary dependencies: 📦
    npm install
